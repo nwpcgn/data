@@ -29,6 +29,11 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/nwpcgn/data@58e0563f573533f76a4a03cb03648dbb3f0cc8a4/portfolio/images/adventure-map.png",
+			"name": "Adventure map",
+			"@type": "Painting"
 		}
 	]
 }
